@@ -103,3 +103,17 @@ Ejecución del servidor:
 - npm install
 - npm uninstall
 - npm update
+
+## Módulo 7: Sistema de archivos
+### Temas
+- fs
+- archivos
+- directorios
+- lectura y escritura
+- creación
+- eliminación
+- renombrado
+- operaciones sincrónicas y asincrónicas
+- callbacks
+- Promises API
+- fs/promises
