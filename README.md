@@ -85,3 +85,21 @@ Ejecución del servidor:
 - Resolución de módulos
 - módulos locales, externos y nativos
 - encapsulamiento
+
+## Módulo 6: package.json y npm
+### Temas
+- package.json
+- Proyecto Node.js
+- npm
+- paquetes
+- dependencias
+- devDependencies
+- versiones
+- semver
+- package-lock.json
+- instalación, actualización y eliminación de paquetes
+- scripts
+- npm run
+- npm install
+- npm uninstall
+- npm update
