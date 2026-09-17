@@ -30,3 +30,16 @@ Ejecución del servidor:
 - Casos de uso
 - Limitaciones
 - Aplicaciones típicas
+
+## Módulo 2: Arquitectura interna de Node.js
+### Temas
+- Motor V8
+- C++ dentro de Node.js
+- APIs de Node.js
+- libuv
+- Sistema operativo
+- Relación entre JavaScript y APIs nativas
+- Abstracción de operaciones de bajo nivel
+- I/O
+- Operaciones CPU-bound
+- Operaciones I/O-bound
