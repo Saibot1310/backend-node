@@ -43,3 +43,20 @@ Ejecución del servidor:
 - I/O
 - Operaciones CPU-bound
 - Operaciones I/O-bound
+
+## Módulo 3: Modelo de ejecución y Event Loop
+### Temas
+- Ejecución sincrónica
+- Ejecución asincrónica
+- Call stack, Event Loop
+- Task queue, Microtask queue
+- Promesas
+- process.nextTick()
+- Timers
+- I/O callbacks
+- Event loop phases
+- Orden de ejecución
+- Bloqueo del Event Loop
+- Operaciones costosas
+- CPU-bound vs I/O-bound
+- Consecuencias para el rendimiento
