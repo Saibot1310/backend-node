@@ -60,3 +60,17 @@ Ejecución del servidor:
 - Operaciones costosas
 - CPU-bound vs I/O-bound
 - Consecuencias para el rendimiento
+
+## Módulo 4: Instalacion y entorno de desarrollo
+### Temas
+- Instalación de Node.js
+- Versiones de Node.js
+- LTS
+- Versiones Current
+- Verificación de la instalación
+- node
+- REPL
+- ejecución de archivos
+- argumentos básicos
+- npm
+- estructura básica de un proyecto
