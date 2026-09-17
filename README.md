@@ -74,3 +74,14 @@ Ejecución del servidor:
 - argumentos básicos
 - npm
 - estructura básica de un proyecto
+
+## Módulo 5: Módulos en Node.js
+### Temas
+- Módulo
+- import, export
+- ES Modules
+- CommonJS
+- require, module.exports
+- Resolución de módulos
+- módulos locales, externos y nativos
+- encapsulamiento
