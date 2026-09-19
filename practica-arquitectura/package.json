@@ -1,0 +1,14 @@
+{
+  "name": "sistema-gestion-ventas-nodejs",
+  "version": "1.0.0",
+  "description": "Servidor de ventas con Node.js sin frameworks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Tobías Vega",
+  "license": "ISC",
+  "type": "module"
+}
